@@ -31,8 +31,6 @@ namespace autofac5
 
             Console.ReadLine();
         }
-
-
     }
     public class Test
     {
@@ -65,7 +63,4 @@ namespace autofac5
     {
         string Get();
     }
-
-
-
 }
